@@ -6,3 +6,5 @@ STABLE RELEASE C-11/DEC/11;six years ago
 
 HISTORY-In the 1960s Ritchie worked, with several other employees of Bell Labs (AT&T), on a project called Multics.
 The goal of the project was to develop an operating system for a large computer that could be used by a thousand users. 
+The programming language C was written down, by Kernighan and Ritchie, 
+in a now classic book called “The C Programming Language, 1st edition”. 
