@@ -5,4 +5,8 @@ DEVELOPER-Dennis Ritche and Bell Labs
 STABLE RELEASE C-11/DEC/11;six years ago
 
 HISTORY-In the 1960s Ritchie worked, with several other employees of Bell Labs (AT&T), on a project called Multics.
-The goal of the project was to develop an operating system for a large computer that could be used by a thousand users. 
+The goal of the project was to develop an operating system for a large computer that could be used by a thousand users.
+For years the book “The C Programming Language, 1st edition” was the standard on the language C.
+In 1983 a committee was formed by the American National Standards Institute (ANSI)
+to develop a modern definition for the programming language C (ANSI X3J11).
+In 1988 they delivered the final standard definition ANSI C. (The standard was based on the book from K&R 1st ed.).
