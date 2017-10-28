@@ -16,3 +16,10 @@ In 1983 a committee was formed by the American National Standards Institute (ANS
 to develop a modern definition for the programming language C (ANSI X3J11).
 In 1988 they delivered the final standard definition ANSI C. (The standard was based on the book from K&R 1st ed.).
 
+PROGRAM IN C-
+#include<stdio.h>
+void main()
+{
+printf("C is a programming language");
+}
+
